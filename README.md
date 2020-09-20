@@ -8,5 +8,5 @@
 ### Assumptions
 1. All above operations would happen only when Dashcam is powered on.
 2. Assuming we have all types of alarm and backend message to be send to Dashcam configuration stored in a config.
-3. Database server is also running on different port and server.
+3. Database is also being handled by a different microservice.
 4. For TCP stream, assuming it is handling on client as well.
